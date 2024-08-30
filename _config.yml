@@ -25,9 +25,8 @@ author:
   name             : "Jacob Mandelbrot"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring Game Developer Studying Computer Science"
-  location         : "Harvard University"
   location         : "Cambridge, Massachussetts"
-  # employer         : "Red Brick University"
+  employer         : "Harvard University"
   uri              : # URL
   email            : "jmandelbrot@college.harvard.edu" 
 
