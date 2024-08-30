@@ -9,3 +9,7 @@ Created platforming, power ups, and the combo and rhythm systems. Encouraged ski
 Made game to be simple and accessible to non-gamers by making a simple gameplay loop and rewarding players for jumping on the beat instead of punishing them
 Learned how to create simple pixel art and music.
 
+<video width="320" height="240" controls>
+  <source src="files/SwampGame.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
