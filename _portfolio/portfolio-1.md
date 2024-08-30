@@ -1,5 +1,5 @@
 ---
-title: "Spectrum (Click for more info and video)"
+title: "Spectrum"
 excerpt: "Game being created for Imaginary Hazard, small indie studio I cofounded at Harvard. Action roguelike with a unique ability system and a high level of customizability.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
