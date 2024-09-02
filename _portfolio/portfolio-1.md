@@ -1,6 +1,6 @@
 ---
 title: "Spectrum"
-excerpt: "Game being created for Imaginary Hazard, small indie studio I cofounded at Harvard. Action roguelike with a unique ability system and a high level of customizability.<br/><iframe width="560" height="315" img src='/images/SpectrumDemo.jpg'frameborder="0" allowfullscreen></iframe>"
+excerpt: "Game being created for Imaginary Hazard, small indie studio I cofounded at Harvard. Action roguelike with a unique ability system and a high level of customizability.<br/><width="560" height="315" img src='/images/SpectrumDemo.jpg'>"
 collection: portfolio
 ---
 Game being created for Imaginary Hazard, small indie studio I cofounded at Harvard. Action roguelike with a unique ability system and a high level of customizability
