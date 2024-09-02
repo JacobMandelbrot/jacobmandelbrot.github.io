@@ -1,6 +1,6 @@
 ---
 title: "Cops And Robber"
-excerpt: "Created for Harvard Undergraduate Video Game Development Club 12 hour game jam (theme was commiting a crime) and won first place. Stealth/Puzzle game with loose inspiration from Metal Gear Solid.<br/><img src='/images/CopsAndRobber.jpg'>"
+excerpt: "Created for Harvard Undergraduate Video Game Development Club 12 hour game jam (theme was commiting a crime) and won first place. Stealth/Puzzle game with loose inspiration from Metal Gear Solid.<br/><img src='/images/CopsAndRobber.jpg' width='560' height='315'>"
 collection: portfolio
 ---
 Created for Harvard Undergraduate Video Game Development Club 12 hour game jam (theme was commiting a crime) and won first place. Stealth/Puzzle game with loose inspiration from Metal Gear Solid.
