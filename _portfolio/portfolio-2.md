@@ -1,6 +1,6 @@
 ---
 title: "Fractal Factory"
-excerpt: "Created as final project for Computer Science education class with the goal of helping students understand visually by creating fractals. Puzzle game where you use a visual scripting language to recreate fractals I have already made.<br/><img src='/images/FractalFactory.jpg'>"
+excerpt: "Created as final project for Computer Science education class with the goal of helping students understand visually by creating fractals. Puzzle game where you use a visual scripting language to recreate fractals I have already made.<br/><img src='/images/FractalFactory.jpg' width="300" height="200">"
 collection: portfolio
 ---
 Created as final project for Computer Science education class with the goal of helping students understand visually by creating fractals. Puzzle game where you use a visual scripting language to recreate fractals I have already made.
