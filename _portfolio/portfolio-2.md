@@ -1,10 +1,13 @@
 ---
 title: "Fractal Factory"
-excerpt: "Created as final project for Computer Science education class with the goal of helping students understand visually by creating fractals. Puzzle game where you use a visual scripting language to recreate fractals I have already made.<br/><img src='/images/500x300.png'>"
+excerpt: "Created as final project for Computer Science education class with the goal of helping students understand visually by creating fractals. Puzzle game where you use a visual scripting language to recreate fractals I have already made.<br/><img src='/images/FractalFactory.jpg'>"
 collection: portfolio
 ---
 
-Created visual scripting language that executes from left to right and was made to be easy to learn for someone with little coding experience
-Replicated recursion functionality by pushing and popping array lists from a stack in C#. Furthermore, visualized recursion to execute one run through at a time, making it easier to see how recursion works
-Used visual scripting language to create several levels with increasing difficulty and unique and complicated fractals
+-Created visual scripting language that executes from left to right and was made to be easy to learn for someone with little coding experience
+-Replicated recursion functionality by pushing and popping array lists from a stack in C#. Furthermore, visualized recursion to execute one run through at a time, making it easier to see how recursion works
+-Used visual scripting language to create several levels with increasing difficulty and unique and complicated fractals
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rO_X_q5e0X8" frameborder="0" allowfullscreen></iframe>
+
 
