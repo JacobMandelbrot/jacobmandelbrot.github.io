@@ -7,7 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;I am a Harvard student studying Computer Science with a strong passion for all aspects of game development and a main focus in programming. Although I have a demanding course schedule, I find time to devote to game development and improve my skills with Unreal Engine and Unity. My strengths as a
-game developer are combining different mechanics, navigating through complex problems, and creating balanced enemy AI. Below is a link to a portfolio of 5 games
-that I made in Unreal and Unity which have been major learning experiences as well as great opportunities to design interesting games!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a Harvard student studying Computer Science with a strong passion for game development. Although I have a demanding course schedule, I find time to devote to game development and improve my skills with Unreal Engine and Unity. My strengths as a game developer are creating complex and balanced enemy AI, building out player mechanics and abilities, and breaking down and solving difficult problems. Recently, I co-founded a game studio at Harvard and have been working with people across multiple disciplines to release a professional game. Through this experience, I have grown significantly as a developer, and it has deepened my passion for creating games.
 
