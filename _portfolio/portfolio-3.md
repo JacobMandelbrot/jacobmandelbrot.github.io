@@ -1,6 +1,6 @@
 ---
 title: "Harshian Swamp"
-excerpt: "Created for FBLA retro style game competition where it reached the national level and placed in the top ten out of over 100 competitiors. 2D rhythm platformer inspired by Pac-Man.<br/><img src='/images/500x300.png'>"
+excerpt: "Created for FBLA retro style game competition where it reached the national level and placed in the top ten out of over 100 competitiors. 2D rhythm platformer inspired by Pac-Man.<br/><img src='/images/HarshianSwamp.jpg'>"
 collection: portfolio
 ---
 
