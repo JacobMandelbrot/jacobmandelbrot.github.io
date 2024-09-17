@@ -2,6 +2,7 @@
 title: "RockPaperShooting"
 excerpt: "Motivation: Created as part of Harvard Undergraduate Video Game Club to teach members a variety of aspects of game development. 
 
+
 Brief Overview: Co-op game that meshes many different parts of other games together, including Kirby, rock paper scissors and Vampire Survivors.<br/><img src='/images/RockPaperShoot.jpg' width='560' height='315'>"
 collection: portfolio
 ---
