@@ -6,7 +6,7 @@ excerpt: "Motivation: Created as final project for Computer Science education cl
 Game Overview: Puzzle game where you use a visual scripting language to create fractals.
 
 
-Skills Used: Visual scripting development, Recreating recursion functionality in C#, Educational Tool Design, Puzzle Creation. <br/><img src='/images/FractalFactory.jpg' width='560' height='315'>"
+Skills Used: Visual scripting development, Recreating recursion functionality in C#, Educational Tool Design, Puzzle Creation. <br/><img src='/files/Fractal Factory Video_GIF.gif' width='560' height='315'>"
 collection: portfolio
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rO_X_q5e0X8" frameborder="0" allowfullscreen></iframe>
