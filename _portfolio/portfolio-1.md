@@ -2,7 +2,9 @@
 title: "Spectrum <img src='/images/UnrealLogo.png' width='20' height='20'/>"
 excerpt: "Motivation: Game being created for Imaginary Hazard, a small indie studio I co-founded at Harvard.  
 
+
 Game Overview: Action roguelike that allows player to use many different variations of spells, weapons, and movement abilities along with a variety of customizable ability modifiers.
+
 
 Skills Used: AI Behavior Trees, Unreal Gameplay Ability System, dynamic UI with intricate functionality, integrating programming and animation, managing Perforce version control.<br/><img src='/images/SpectrumDemo.jpg' width='560' height='315'/>"
 collection: portfolio
