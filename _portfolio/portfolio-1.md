@@ -1,12 +1,12 @@
 ---
-title: "Spectrum"
+title: "Spectrum <img src='/images/UnrealLogo.png' width='20' height='20'/>"
 excerpt: "Motivation: Game being created for Imaginary Hazard, a small indie studio I co-founded at Harvard.  
 
 
-Game Overview: Action roguelike with a unique ability system and a high level of customizability.<br/><img src='/images/SpectrumDemo.jpg' width='560' height='315'/>"
+Skills Used: Behavior Tree AI, Unreal Gameplay Ability System, Dynamic UI with intricate functionality, Combining programming and animation.<br/><img src='/images/SpectrumDemo.jpg' width='560' height='315'/>"
 collection: portfolio
 ---
-Game being created for Imaginary Hazard, small indie studio I cofounded at Harvard. Action roguelike with a unique ability system and a high level of customizability
+Game Overview: Action roguelike that allows player to use many different variations of spells, weapons, and movement abilities along with many customizable modifiers.
 
 - Created enemy AI using Unreal Engine behavior tree blueprints, with focus on creating a challenge while still keeping the game fair.
 - Built interactive UI and backend for ability system.
