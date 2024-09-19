@@ -9,9 +9,7 @@ Game Overview: Action roguelike that allows player to use many different variati
 Skills Used: AI Behavior Trees, Unreal Gameplay Ability System, dynamic UI with intricate functionality, integrating programming and animation, managing Perforce version control.<br/><img src='/images/SpectrumDemo.jpg' width='560' height='315'/>"
 collection: portfolio
 ---
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tr-lacjNUD0" frameborder="0" allowfullscreen></iframe>
-
 - Created enemy AI using Unreal Engine behavior tree blueprints, with focus on creating a challenge while still keeping the game fair.
 - Built interactive UI and backend for ability system.
 - Integrated Unreal’s Gameplay Ability System, using it to create dozens of abilities and character trait modifiers.
