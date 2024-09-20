@@ -9,7 +9,7 @@ Game Overview: 2D rhythm platformer inspired by Pac-Man.
 Skills Used: Platformer mechanics implementation, Rhythm and combo system integration, Pixel art and music creation, Player-centric gameplay.<br/><img src='/files/HarshianSwamp_GIF.gif' width='560' height='315'>"
 collection: portfolio
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z35y6zQ5_aI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z35y6zQ5_aI?autoplay=1&loop=1&playlist=z35y6zQ5_aI" frameborder="0" allowfullscreen></iframe>
 - Built platforming, power up, comboing, and rhythm systems. 
 - Integrated gaining extra points with jumping to the beat of the music
 - Worked on making game simple and accessible to non-gamers by making an easy-to-understand gameplay loop and rewarding players for skillful gameplay instead of punishing them
