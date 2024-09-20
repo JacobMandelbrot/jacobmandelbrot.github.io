@@ -6,7 +6,7 @@ excerpt: "Motivation: Game being created for Imaginary Hazard, a small indie stu
 Game Overview: Action roguelike that allows player to use many different variations of spells, weapons, and movement abilities along with a variety of customizable ability modifiers.
 
 
-Skills Used: AI Behavior Trees, Boss creation, Unreal Gameplay Ability System, Dynamic UI with intricate functionality, Integrating programming and animation, Managing Perforce version control.<br/><img src='/files/Fractal Factory Video_GIF.gif' width='560' height='315'>.<br/><img src='/files/Fractal Factory Video_GIF.gif' width='560' height='315'>
+Skills Used: AI Behavior Trees, Boss creation, Unreal Gameplay Ability System, Dynamic UI with intricate functionality, Integrating programming and animation, Managing Perforce version control.<br/><img src='/files/Fractal Factory Video_GIF.gif' width='560' height='315'>.<br/><img src='/files/Fractal Factory Video_GIF.gif' width='560' height='315'>"
 collection: portfolio
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tr-lacjNUD0" frameborder="0" allowfullscreen></iframe>
