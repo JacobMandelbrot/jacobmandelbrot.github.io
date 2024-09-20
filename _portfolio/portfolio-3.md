@@ -7,7 +7,7 @@ Game Overview: 2D rhythm platformer inspired by Pac-Man.
 
 
 Skills Used: Platformer mechanics implementation, Rhythm and combo system integration, Pixel art and music creation, Player-centric gameplay.<br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wtt16_dM6P8?autoplay=1&loop=1&playlist=Wtt16_dM6P8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wtt16_dM6P8?autoplay=1&loop=1&playlist=Wtt16_dM6P8"></iframe>"
 
 collection: portfolio
 ---
