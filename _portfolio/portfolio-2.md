@@ -3,7 +3,7 @@ title: "Fractal Factory <img src='/images/UnityLogo.png' width='20' height='20'/
 excerpt: "Motivation: Created as final project for Computer Science education class with the goal of helping students visually understand recursion. 
 
 
-Game Overview: Puzzle game where you use a visual scripting language to create fractals.
+Game Overview: Puzzle game where you use a visual scripting language to recreate fractals.
 
 
 Skills Used: Visual scripting development, Recreating recursion functionality in C#, Educational Tool Design, Puzzle Creation. <br/><img src='/files/Fractal Factory Video_GIF.gif' width='560' height='315'>"

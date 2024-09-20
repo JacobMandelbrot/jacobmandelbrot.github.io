@@ -1,6 +1,6 @@
 ---
 title: "Cops And Robber <img src='/images/UnityLogo.png' width='20' height='20'/>"
-excerpt: "Motivation: Created for Harvard Undergraduate Video Game Development Club 12 hour game jam (theme was commiting a crime) where it won first place. 
+excerpt: "Motivation: Created for Harvard Undergraduate Video Game Development Club 12 hour game jam (theme was commiting a crime), where it won first place. 
 
 
 Game Overview: Stealth/Puzzle game with loose inspiration from Metal Gear Solid.
