@@ -8,7 +8,7 @@ Game Overview: 2D rhythm platformer inspired by Pac-Man.
 
 Skills Used: Platformer mechanics implementation, Rhythm and combo system integration, Pixel art and music creation, Player-centric gameplay.<br/><img src='/images/HarshianSwamp.jpg' width='560' height='315'>"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z35y6zQ5_aI" frameborder="0" allowfullscreen></iframe>
+
 
 
 collection: portfolio
