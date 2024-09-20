@@ -6,7 +6,7 @@ excerpt: "Motivation: Created for Harvard Undergraduate Video Game Development C
 Game Overview: Stealth/Puzzle game with loose inspiration from Metal Gear Solid.
 
 
-Skills Used: AI State Machines, Time Management Under Pressure, Transform Hierarchy Manipulation. <br/><img src='/images/CopsAndRobber.jpg' width='560' height='315'>"
+Skills Used: AI State Machines, Time Management Under Pressure, Transform Hierarchy Manipulation. <br/><img src='/CopsAndRobber_GIF.gif' width='560' height='315'>"
 collection: portfolio
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gpAF9P-Ay1g" frameborder="0" allowfullscreen></iframe>
