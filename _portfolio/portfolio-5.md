@@ -9,7 +9,7 @@ Game Overview: Co-op game that meshes many different parts of other games togeth
 Skills Used: Co-op implementation, AI tailored against player's abilities, C++ Plugin Development, Firearm animation integration, Upgrade System (Vampire Survivor Style) creation. <br/><img src='/files/RockPaperShooter_GIF.gif' width='560' height='315'>"
 collection: portfolio
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jg7QUjF81fI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tbxQ1kAQxCk?autoplay=1" frameborder="0" allowfullscreen></iframe>
 - Implemented Co-op functionality which required replicating key variables and functions to make sure that changes on the server were reflected across all clients.
 - Made a variety of weapons and enemies that have a rock paper scissors relationship. Each enemy feels unique and has a distinct weakness (Ex. flying enemy weak to homing missile, tanky/slow enemy weak to shotgun).
 - Also made a boss enemy combines different aspects from the normal enemies

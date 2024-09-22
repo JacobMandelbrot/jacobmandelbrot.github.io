@@ -6,12 +6,12 @@ excerpt: "Motivation: Created for FBLA retro style game competition where it rea
 Game Overview: 2D rhythm platformer inspired by Pac-Man.
 
 
-Skills Used: Platformer mechanics implementation, Rhythm and combo system integration, Non-gamer friendly gameplay, Pixel art and music creation.<br/><img src='/files/HarshianSwamp_GIF.gif' width='560' height='315'>"
+Skills Used: Platformer mechanics implementation, Rhythm and combo system integration, Non-gamer friendly, Pixel art and music creation.<br/><img src='/files/HarshianSwamp_GIF.gif' width='560' height='315'>"
 
 
 collection: portfolio
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z35y6zQ5_aI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dpx014k9SXQ?autoplay=1" frameborder="0" allowfullscreen></iframe>
 - Built platforming, power up, comboing, and rhythm systems. 
 - Integrated gaining extra points with jumping to the beat of the music
 - Worked on making game simple and accessible to non-gamers by making an easy-to-understand gameplay loop and rewarding players for skillful gameplay instead of punishing them
