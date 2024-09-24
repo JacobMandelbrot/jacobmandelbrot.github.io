@@ -1,6 +1,6 @@
 ---
 title: "Spectrum <img src='/images/UnrealLogo.png' width='20' height='20'/>"
-excerpt: "Motivation: Game being created for Imaginary Hazard, a small indie studio I co-founded at Harvard.  
+excerpt: "Motivation: Game being developed at Imaginary Hazard, a small indie studio at Harvard where I am the lead programmer.  
 
 
 Game Overview: Action roguelike that allows player to use many different variations of weapons, movement, and utility abilities along with a variety of customizable ability modifiers.
