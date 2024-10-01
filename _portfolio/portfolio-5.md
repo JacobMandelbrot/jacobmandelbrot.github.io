@@ -16,4 +16,4 @@ collection: portfolio
 - Created system for stealing abilities and using them to shoot a weapon or build a tower
 - Made vampire survivor system for leveling to give players a sense of progression.
 - Integrated animation pack giving player character realistic movement and a weapon animations
-- Made two plugins, a plugin which adds a blueprint node with c++ line tracing and enemy detection functionality and a button in the editor which cycles between a few behind-the-scenes ability and enemy presets
+- Made two plugins, a plugin which adds a blueprint node with C++ line tracing and enemy detection functionality and a button in the editor which cycles between a few behind-the-scenes ability and enemy presets
