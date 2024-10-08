@@ -24,7 +24,7 @@ author:
   avatar           : "PictureWithForest.jpg"
   name             : "Jacob Mandelbrot"
   pronouns         : # example: "she/her"  
-  bio              : "Aspiring Game Developer Studying Computer Science"
+  bio              : #"Aspiring Game Developer Studying Computer Science"
   location         : "Cambridge, Massachussetts"
   employer         : "Harvard University"
   uri              : # URL
