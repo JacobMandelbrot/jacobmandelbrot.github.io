@@ -1,15 +1,21 @@
 ---
-title: "Cops And Robber <img src='/images/UnityLogo.png' width='20' height='20'/>"
-excerpt: "Motivation: Created for Harvard Undergraduate Video Game Development Club 12 hour game jam (theme was commiting a crime), where it won first place. 
+title: "Harshian Swamp <img src='/images/UnrealLogo.png' width='20' height='20'/>"
+excerpt: "Motivation: Created for HackHarvard 36 hour hackathon with “Smart city” track theme.
 
 
-Game Overview: Stealth/Puzzle game with loose inspiration from Metal Gear Solid.
+Game Overview: Puzzle game where you create your own public transit routes in a subsection of Boston.
 
 
-Skills Used: AI State Machines, Time Management Under Pressure, Transform Hierarchy Manipulation. <br/><img src='/files/CopsAndRobber_GIF.gif' width='560' height='315'>"
+
+Skills Used: Spline-based pathing and interactions, Physics collisions and behaviors, Storing gameplay data, Efficiently and collaboratively managing tasks with a teammate.<br/><img src='/files/TransitNightmare_GIF.gif' width='560' height='315'>"
+
+
 collection: portfolio
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QJPPDcLb_sM?autoplay=1" frameborder="0" allowfullscreen></iframe>
-- Created advanced enemy AI system that uses a state machine to switch between multiple states such as patrolling, chasing, and firing.
-- Created player character and controller selfie stick tool which required experimenting and mastering relationships of child/parent object transforms.
-- Learned to break problems into smaller pieces to finish them quicker and how to make efficient use of time under high time pressure.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xEo-VzJTUFI?autoplay=1" frameborder="0" allowfullscreen></iframe>
+- Helped build the road creation system which uses splines
+- Developed data storage and replay system for bus simulations
+- Worked on abilities to give players more strategic options
+- Integrated collision detection and exaggerated player-visible physics interactions
+- Added sound effects across all parts of the project
+

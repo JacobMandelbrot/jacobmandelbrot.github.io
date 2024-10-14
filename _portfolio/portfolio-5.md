@@ -1,19 +1,15 @@
 ---
-title: "RockPaperShoot <img src='/images/UnrealLogo.png' width='20' height='20'/>"
-excerpt: "Motivation: Created as part of Harvard Undergraduate Video Game Club to teach members a variety of aspects of game development. 
+title: "Cops And Robber <img src='/images/UnityLogo.png' width='20' height='20'/>"
+excerpt: "Motivation: Created for Harvard Undergraduate Video Game Development Club 12 hour game jam (theme was commiting a crime), where it won first place. 
 
 
-Game Overview: Co-op game that meshes many different parts of other games together, including Kirby, rock paper scissors and Vampire Survivors.
+Game Overview: Stealth/Puzzle game with loose inspiration from Metal Gear Solid.
 
 
-Skills Used: Co-op implementation, AI tailored against player's abilities, C++ Plugin Development, Firearm animation integration, Upgrade System (Vampire Survivor Style) creation. <br/><img src='/files/RockPaperShooter_GIF.gif' width='560' height='315'>"
+Skills Used: AI State Machines, Time Management Under Pressure, Transform Hierarchy Manipulation. <br/><img src='/files/CopsAndRobber_GIF.gif' width='560' height='315'>"
 collection: portfolio
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tbxQ1kAQxCk?autoplay=1" frameborder="0" allowfullscreen></iframe>
-- Implemented Co-op functionality which required replicating key variables and functions to make sure that changes on the server were reflected across all clients.
-- Made a variety of weapons and enemies that have a rock paper scissors relationship. Each enemy feels unique and has a distinct weakness (Ex. flying enemy weak to homing missile, tanky/slow enemy weak to shotgun).
-- Also made a boss enemy combines different aspects from the normal enemies
-- Created system for stealing abilities and using them to shoot a weapon or build a tower
-- Made vampire survivor system for leveling to give players a sense of progression.
-- Integrated animation pack giving player character realistic movement and a weapon animations
-- Made two plugins, a plugin which adds a blueprint node with C++ line tracing and enemy detection functionality and a button in the editor which cycles between a few behind-the-scenes ability and enemy presets
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QJPPDcLb_sM?autoplay=1" frameborder="0" allowfullscreen></iframe>
+- Developed advanced enemy AI system that uses a state machine to switch between multiple states such as patrolling, chasing, and firing.
+- Created player character and controller selfie stick tool which required experimenting and mastering relationships of child/parent object transforms.
+- Learned to break problems into smaller pieces to finish them quicker and how to make efficient use of time under high time pressure.
